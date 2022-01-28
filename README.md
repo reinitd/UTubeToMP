@@ -1,7 +1,7 @@
 # UTubeToMP
 YouTube to MP3 or 4, you get to choose...
 
-If you don't wanna `git clone`andor dont wanna install python. Here: \
+If you don't wanna `git clone` andor dont wanna install python. Here: \
 <a href="https://replit.com/@RussianDev/UTubeToMP">Repl.it</a>
 
 ---
